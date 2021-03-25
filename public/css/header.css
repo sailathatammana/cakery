@@ -1,0 +1,27 @@
+.navigation {
+  text-align: center;
+}
+
+.navigation .logo {
+  border-radius: 100%;
+  width: 100px;
+  height: auto;
+  border: solid 2px var(--color-green);
+}
+
+.navigation .menu {
+  display: grid;
+  color: var(--color-brown);
+  font-size: 20px;
+  grid-template-columns: 0.5fr 0.5fr 0.5fr 0.5fr;
+  font-family: "Roboto", cursive;
+}
+
+.main-buttons {
+  font-family: "Roboto", cursive;
+  font-size: 20px;
+  background-color: var(--color-green);
+  border: 0px;
+  min-width: 70px;
+  max-width: 300px;
+}
