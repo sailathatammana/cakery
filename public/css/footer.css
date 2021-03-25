@@ -1,0 +1,34 @@
+.footer-info {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-column-align: center;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  grid-gap: 20px;
+  margin: 10px;
+  font-family: "Roboto", sans-serif;
+  font-size: 11px;
+  padding-bottom: 10px;
+}
+
+.footer-info .social-media {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 10px;
+  text-align: center;
+}
+
+.footer-info .contact-me {
+  display: grid;
+  grid-template-columns: 1fr;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.footer-info a {
+  text-align: center;
+  background-color: var(--color-green);
+  color: white;
+  font-size: 12;
+}
