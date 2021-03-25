@@ -25,3 +25,24 @@
   min-width: 70px;
   max-width: 300px;
 }
+
+/*Tablets*/
+@media (min-width: 550px){
+  .navbar .logo {
+      width: 150px;
+      height: auto;
+  }
+  .main-buttons {
+      font-size: 30px;
+      min-width: 100px;
+      max-width: 400px;
+  }
+}
+
+/*Desktop*/
+@media (min-width: 750px){
+  .navbar .logo {
+      width: 200px;
+      height: auto;
+  }
+}
