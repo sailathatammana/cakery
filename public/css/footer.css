@@ -28,7 +28,7 @@
 
 .footer-info a {
   text-align: center;
-  background-color: var(--color-green);
+  background-color:var(--color-brown);
   color: white;
   font-size: 18;
 }

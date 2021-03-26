@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 body {
-  background-color: var(--color-pink-opaque);
+  background-color: var(--color-brown);
   max-width: 960px;
   margin: 0 auto;
   color: var(--color-green);

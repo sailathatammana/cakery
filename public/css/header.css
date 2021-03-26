@@ -1,5 +1,6 @@
 .navigation {
   text-align: center;
+  margin-top: 20px;
 }
 
 .navigation .logo {
@@ -24,6 +25,7 @@
   border: 0px;
   min-width: 70px;
   max-width: 300px;
+  color: var(--color-brown);
 }
 
 /*Tablets*/
