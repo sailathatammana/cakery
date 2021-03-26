@@ -1,3 +1,3 @@
 # munamiicakery
 
-A simple website using HTML and CSS alone for a Bakery
+Munamii Cakery website was build using HTML and CSS
