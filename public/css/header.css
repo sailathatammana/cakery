@@ -14,7 +14,7 @@
   display: grid;
   color: var(--color-brown);
   font-size: 20px;
-  grid-template-columns: 0.5fr 0.5fr 0.5fr 0.5fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   font-family: "Roboto", cursive;
 }
 
@@ -25,7 +25,7 @@
   border: 0px;
   min-width: 70px;
   max-width: 300px;
-  color: var(--color-brown);
+  color: white;
 }
 
 /*Tablets*/
